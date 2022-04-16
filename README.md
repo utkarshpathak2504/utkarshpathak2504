@@ -1,5 +1,24 @@
 <h2 align="center">Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="25px" style="margin-top: 2px;">, I'm Utkarsh Pathak</h2>
 
+
+</center>
+
+<br />
+<h2 align="center"><b>⭐Github Stats</b></h2> 
+
+<!-- ![](https://komarev.com/ghpvc/?username=meinhoonharsh&color=00ACFF) -->
+
+<a align="center" href="https://github.com/meinhoonharsh/meinhoonharsh">
+  <img  width="49%" src="https://github-readme-stats.vercel.app/api?username=meinhoonharsh&show_icons=true&theme=algolia&repo=meinhoonharsh&hide_border=true&bg_color=0a192f&text_color=e6f1ff&title_color=64ffda" />
+<!--   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meinhoonharsh&show_icons=true&theme=algolia&repo=meinhoonharsh&hide_border=true&bg_color=0a192f&title_color=e6f1ff&layout=compact" /> -->
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=meinhoonharsh&theme=algolia&hide_border=true&background=0A192F&stroke=8892B0&ring=64FFDA&fire=8892B0&border=DD2727&currStreakNum=E6F1FF&sideNums=E6F1FF&sideLabels=64FFDA&currStreakLabel=E6F1FF&dates=CCD6F6" alt="meinhoonharsh" /></p>
+<div style="font-weight: 800;">
+</a>
+
+<br>
+
+<br />
+
 <!-- <p align="center">
 <a href="https://twitter.com/hrishabhcodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hrishabhj5" height="32" width="40" /></a>
 <a href="https://linkedin.com/in/hrishabh-jain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hrishabh-jain" height="30" width="40" /></a>
