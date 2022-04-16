@@ -9,7 +9,7 @@
 <!-- ![](https://komarev.com/ghpvc/?username=meinhoonharsh&color=00ACFF) -->
 
 <a align="center" href="https://github.com/utkarshpathak2504/utkarshpathak2504">
-  <img  width="49%" src="https://github-readme-stats.vercel.app/api?username=meinhoonharsh&show_icons=true&theme=algolia&repo=utkarshpathak2504&hide_border=true&bg_color=0a192f&text_color=e6f1ff&title_color=64ffda" />
+  <img  width="49%" src="https://github-readme-stats.vercel.app/api?username=utkarshpathak2504&show_icons=true&theme=algolia&repo=utkarshpathak2504&hide_border=true&bg_color=0a192f&text_color=e6f1ff&title_color=64ffda" />
 <!--   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshpathak2504&show_icons=true&theme=algolia&repo=utkarshpathak2504&hide_border=true&bg_color=0a192f&title_color=e6f1ff&layout=compact" /> -->
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=utkarshpathak2504&theme=algolia&hide_border=true&background=0A192F&stroke=8892B0&ring=64FFDA&fire=8892B0&border=DD2727&currStreakNum=E6F1FF&sideNums=E6F1FF&sideLabels=64FFDA&currStreakLabel=E6F1FF&dates=CCD6F6" alt="utkarshpathak2504" /></p>
 <div style="font-weight: 800;">
